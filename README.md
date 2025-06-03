@@ -1,0 +1,1 @@
+A simple Weather App that shows real-time weather using the OpenWeatherMap API. Users can search by city or allow location access to get weather for their current location. It displays temperature, conditions, humidity, and wind speed with a clean and responsive UI using HTML, CSS, and JavaScript.
